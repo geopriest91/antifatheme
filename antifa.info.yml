@@ -1,0 +1,11 @@
+name: autonome antifa
+type: theme
+Description: "An antifa theme"
+package: custom
+core: 8.x
+
+regions:
+  header: header
+  content: content
+  sidebar: sidebar
+  footer: footer
